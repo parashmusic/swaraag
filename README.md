@@ -1,4 +1,4 @@
-# 🎵 SWARAAG — Frontend Dashboard
+# SWARAAG
 
 <div align="center">
   <img src="src/assets/screens/hero.png" alt="Swaraag Hero Dashboard" width="90%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.3);" />
